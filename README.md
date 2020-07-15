@@ -1,5 +1,5 @@
 # TextUtiltiy
-A Text editing Rest API
+A Text editing Rest API created using Django and Django RestFramework
 TextUtiltiy
 A Text Editing Utility Rest API
 
